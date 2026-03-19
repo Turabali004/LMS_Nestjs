@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+dist/
+lib-cov
+blocks
+node_modules_bak
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# NestJS
+/backend/dist
+/backend/node_modules
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Postman
+/backend/LMS_Postman_Collection.json
+/backend/LMS_Postman_Environment.json
